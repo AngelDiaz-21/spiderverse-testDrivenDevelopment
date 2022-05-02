@@ -1,10 +1,10 @@
 class Spiderman {
-    constructor(nombre, edad, actorInterprete, numeroPelículasAparecio, estudioDeCine){
-        this.nombre = nombre
-        this.edad = edad
-        this.actorInterprete = actorInterprete
-        this.numeroPelículasAparecio = numeroPelículasAparecio
-        this.estudioDeCine = estudioDeCine
+    constructor(name, age, actor, movies, studio){
+        this.name = name
+        this.age = age
+        this.actor = actor
+        this.movies = movies
+        this.studio = studio
     };
 };
 

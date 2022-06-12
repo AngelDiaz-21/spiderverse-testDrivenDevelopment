@@ -66,6 +66,6 @@ En el directorio app se crea un archivo llamado **spiderman.js** y se debe escri
 
 ![Clase spiderman](./assets/spiderman-app.png "Clase spiderman")
 
-Al final se vuelve a correr la prueba consiguiendo a ver pasado todos los casos.
+Al final se vuelve a correr la prueba consiguiendo haber pasado todos los casos.
 
 
